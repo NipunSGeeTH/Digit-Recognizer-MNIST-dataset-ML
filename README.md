@@ -30,7 +30,7 @@ It was developed and trained in **Google Colab** using **TensorFlow/Keras**.
 ---
 
 ## 📊 Results
-- Training accuracy: ~98%  
+- Training accuracy: ~98%   in V2- Improved 99.10% 
 - Test accuracy: ~97%  
 - Example predictions shown below:
 
